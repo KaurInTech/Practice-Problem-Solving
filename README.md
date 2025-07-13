@@ -13,6 +13,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -25,4 +26,16 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
