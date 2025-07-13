@@ -9,6 +9,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Recursion
 |  |
 | ------- |
@@ -38,4 +40,8 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
