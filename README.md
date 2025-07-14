@@ -10,6 +10,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 | ------- |
 | [0001-two-sum](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,9 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
