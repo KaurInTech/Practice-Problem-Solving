@@ -11,6 +11,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 | [0001-two-sum](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,8 +47,14 @@ Practice coding and problem-solving skills based on data structures and algorith
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
+## Sorting
+|  |
+| ------- |
+| [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
