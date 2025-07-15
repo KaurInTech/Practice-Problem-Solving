@@ -10,6 +10,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 | ------- |
 | [0001-two-sum](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0287-find-the-duplicate-number](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
 ## Hash Table
@@ -34,6 +35,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 ## Two Pointers
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -62,9 +64,14 @@ Practice coding and problem-solving skills based on data structures and algorith
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [1023-time-based-key-value-store](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1023-time-based-key-value-store) |
 ## Design
 |  |
 | ------- |
 | [1023-time-based-key-value-store](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1023-time-based-key-value-store) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
