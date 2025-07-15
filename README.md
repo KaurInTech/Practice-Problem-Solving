@@ -17,6 +17,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 | ------- |
 | [0001-two-sum](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
+| [1023-time-based-key-value-store](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -57,4 +59,12 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1023-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
