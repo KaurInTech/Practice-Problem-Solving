@@ -17,12 +17,14 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
 | [1023-time-based-key-value-store](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1023-time-based-key-value-store) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -35,6 +37,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0567-permutation-in-string) |
 ## String
