@@ -72,9 +72,30 @@ Practice coding and problem-solving skills based on data structures and algorith
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1023-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
