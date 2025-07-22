@@ -85,6 +85,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -114,4 +116,12 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+## Depth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
