@@ -13,6 +13,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 | [0287-find-the-duplicate-number](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
+| [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +93,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Tree
 |  |
 | ------- |
@@ -98,4 +102,16 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0789-kth-largest-element-in-a-stream) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
