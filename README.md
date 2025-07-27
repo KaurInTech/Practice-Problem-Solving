@@ -25,6 +25,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -36,6 +37,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
