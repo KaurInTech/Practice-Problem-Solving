@@ -9,6 +9,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0287-find-the-duplicate-number](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0739-daily-temperatures](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0739-daily-temperatures) |
@@ -67,6 +68,7 @@ Practice coding and problem-solving skills based on data structures and algorith
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0056-merge-intervals) |
 | [0883-car-fleet](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/0883-car-fleet) |
 | [1014-k-closest-points-to-origin](https://github.com/KaurInTech/Practice-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 ## Binary Search
